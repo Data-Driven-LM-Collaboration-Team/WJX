@@ -7,7 +7,7 @@
 
 流程：
   
-<img width="900" height="350" alt="流程" src="https://github.com/user-attachments/assets/3cf28ada-1afb-4c1a-825f-126c722eac9d" />
+<img width="800" height="250" alt="流程" src="https://github.com/user-attachments/assets/3cf28ada-1afb-4c1a-825f-126c722eac9d" />
 
 
 结果：
