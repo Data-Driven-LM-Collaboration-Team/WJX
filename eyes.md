@@ -18,6 +18,20 @@
 
 筛选后数据集：眼前：AUC: 0.744  ACC: 0.686
 
+杯盘比(CDR):
+
+总计422张眼底，失败40(检测不到视杯或视盘)
+
+CDR Range: 0.1313 - 0.7426
+
+Average CDR: 0.3192
+
+CDR <0.3: 216 images
+
+CDR 0.3-0.6: 157 images
+
+CDR ≥0.6: 14 images
+
 ***
 Agent：
 
