@@ -47,6 +47,6 @@ Agent：
 
 结果：
 
-<img width="771" height="297" alt="results" src="https://github.com/user-attachments/assets/3018cd0e-9252-4da9-ab38-15e3d25cda15" />
+<img width="650" height="250" alt="results" src="https://github.com/user-attachments/assets/3018cd0e-9252-4da9-ab38-15e3d25cda15" />
 
 
